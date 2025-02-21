@@ -1,0 +1,15 @@
+{
+    "platform": "expo",
+    "name": "MyApp",
+    "slug": "my-app",
+    "repo": "tea-is-fantastic/my-app",
+    "features": [
+        "tailwind",
+        "zustand",
+        "onesignal"
+    ],
+    "modules": [
+        "auth",
+        "drawer"
+    ]
+}
